@@ -8,7 +8,7 @@
 
 You can get started using this notebook in 4 easy steps:
 1. Subscribe to the Stats Perform data [here](https://aws.amazon.com/marketplace/pp/prodview-tte3yvctdjs7a).
-2. Create an Amazon SageMaker Notebook instance [here](https://console.aws.amazon.com/sagemaker/home?region=us-east-1#/notebook-instances). For the development of this notebook, we used an `ml.m5.2xlarge`. Note that charges apply.
+2. Create an Amazon SageMaker Notebook instance [here](https://console.aws.amazon.com/sagemaker/home?region=us-east-1#/notebook-instances). For the development of this notebook, we used an `ml.m5.xlarge`. Note that charges apply.
 3. Once your instance has been spun up, click 'Open Jupyter' and upload optimizer.ipynb from this repository.
 4. Once uploaded, open optimizer.ipynb and update the variable at the top to point to the S3 bucket you want to use. As long as the IAM role you're using has the permissions listed in the notebook, the code will "just work".
 
