@@ -2,6 +2,8 @@
 
 ## AWS Data Exchange Daily Fantasy Sports Football Lineups Optimizer
 
+Welcome! This repository contains the code used in the 2020 AWS re:Invent session "Use data to optimize your daily fantasy sports football lineups"
+
 [AWS Data Exchange](https://aws.amazon.com/data-exchange/) is a service that makes it easy for millions of AWS customers to securely find, subscribe to, and use third-party data in the cloud. This repository contains an example of how to use data from Stats Perform to optimize your daily fantasy sports football lineups.
 
 ![Data Exchange diagram](adx-dfs-diagram.svg)
